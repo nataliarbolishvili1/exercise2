@@ -1,0 +1,130 @@
+*{
+    margin: opx;
+}
+.man{
+height: 300px;
+width: 300px;
+margin: 60px 793px 40px 269px;
+}
+.syed{
+    font-size: 48px;
+    height: 58px;
+    width: 438px;
+    margin: 40px 525px 24px 200px;
+    text-align: center;
+}
+.UI{
+    width: 438px;
+    height: 38px;
+    margin: 24px 724px 60px 200px;
+    font-size: 32px;
+    text-align: center;
+}
+.hr1{
+    width: 962px;
+    margin: 60px 200px;
+}
+.profiles{
+    margin: 60px 467px 60px 200px;
+    color: blue;
+    height: 120px;
+    width: 695px;
+    font-size: 32px;
+}
+.photos{
+    width: 48px;
+    height: 48px;
+}
+.liltext{
+    font-size: 48px;
+}
+.box{
+    width: 962px;
+    height: 48pxs;
+    margin: 60px 200px;
+}
+.box1{
+     width: 962px;
+    height: 48pxs;
+    margin: 60px 200px;
+}
+.colouring{
+    font-size: 32px;
+    width: 1080px;
+    height: 320px;
+    margin: 60px 160px;
+    color: blue;
+    line-height: 64px;
+}
+.green{
+    color: green;
+    font-size: 48px;
+}
+ .red{
+    color: red;
+    font-size: 40px;
+ }
+ .pink{
+    color: rgb(139, 28, 47);
+ }
+ .need{
+    font-size: 60px;
+    color: blue;
+    margin: 60px 160px 32px 160px;
+    width: 1080px;
+    height: 100px;
+ }
+ .please{
+font-size: 32px;
+color: blue;
+margin: 32px 160px 60px 160px;
+width: 1080px;
+height: 64px;
+ }
+ .mail{
+    width: 1080px;
+    height: 80px;
+    font-size: 40px;
+    margin: 60px 160px;
+ }
+ .hr2{
+    width: 1080px;
+    margin: 60px 160px;
+ }
+ .want{
+    font-size: 60px;
+    color: blue;
+    margin: 60px 138px 40px 138px;
+    width: 1124px;
+    height: 80px;
+ }
+ .managing{
+    color: blue;
+    margin: 40px 138px 60px 138px;
+    font-size: 32px;
+    width: 1098px;
+    height: 192px;
+    line-height: 64px;
+ }
+ .coffee{
+    width: 500px;
+    height: 140.37px;
+    margin: 60px 450px;
+ }
+ .fl{
+    width: 1080px;
+    height: 170px;
+    margin: 60px 160px;
+ }
+ .fingers{
+    font-size: 60px;
+ }
+ .lastlink{
+    font-size: 32px;
+    color: brown;
+ }
+ .QR{
+    width: 500px;
+    height: 500px;
+    margin: 60px 450px 160px 450px;
+ }
